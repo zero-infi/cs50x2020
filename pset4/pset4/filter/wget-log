@@ -1,0 +1,6 @@
+--2020-07-21 10:40:06--  http://samples.fileformat.info/format/bmp/sample/4cb74cda027a43f3b278c05c3770950f/MARBLES.BMP?AWSAccessKeyId=0V91BEFA7GM093MEVMG2
+Resolving samples.fileformat.info (samples.fileformat.info)... 172.67.173.1, 104.27.185.199, 104.27.184.199, ...
+Connecting to samples.fileformat.info (samples.fileformat.info)|172.67.173.1|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-07-21 10:40:06 ERROR 403: Forbidden.
+
